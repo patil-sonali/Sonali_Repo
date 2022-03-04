@@ -1,4 +1,4 @@
-package com.Bookzy.Bookzy;
+package com.bookzy.Bookzy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
